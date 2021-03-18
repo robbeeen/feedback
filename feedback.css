@@ -1,0 +1,112 @@
+ * {
+     box-sizing: border-box;
+ }
+ 
+ .body {
+     font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+     background-color:#bcc4b9;
+     margin-top: 5px;
+ }
+ 
+ .nav {
+     float: left;
+     width: 30%;
+     height: 400px;
+     background: #b9ddab;
+     padding: 20px;
+     border-radius: 50px;
+     color: rgb(91, 115, 250);
+     clear: left;
+     margin-left: 50px;
+ }
+ 
+ .form {
+     margin-left: 30px;
+ }
+ 
+ .article {
+     float: left;
+     margin-top: 0px;
+     padding: 20px;
+     width: 70%;
+     background-color: whitesmoke;
+     height: 400px;
+ }
+ 
+
+ 
+ 
+ input[type='text'],
+ textarea {
+     border-radius: 10px;
+     border: 2px solid #CCC;
+     padding: 5px;
+     color: #333;
+     font-size: 10px;
+     margin-top: 0px;
+     margin-left: 20px;
+     
+ }
+ 
+ #mytest {
+     font-size: 100%;
+     font-weight: bold;
+    background-color: #b9ddab;
+     font-family: Arial, Helvetica, sans-serif;
+     color:rgb(145, 151, 150);
+     margin-left:100px;
+ }
+
+ .h{
+    
+          
+    background-color: #71a65d;
+    height: 100px;
+  border-left: 0px;
+    margin-left: 0px;
+
+
+ }
+ 
+ input[type='submit'],
+ input[type='radio'] {
+     padding: 10px 25px 8px;
+     color:#3e3f3c;
+     font-size: 15px;
+     border: 2px solid #0164a5;
+     border-radius: 15px 30px;
+     margin-top: 10px;
+
+     margin-left: 50px;
+     
+ }
+ 
+ input[type='submit']:hover {
+     box-shadow: 0 0 20px rgb(139, 135, 135);
+ }
+ 
+ #fname {
+     margin-left: 38px;
+ }
+ 
+ #midname {
+     margin-left: 28px;
+ }
+ 
+ #lastname {
+     margin-left: 43px;
+ }
+ 
+ #t5 {
+     margin-left: 33px;
+ }
+ 
+ #male {
+     margin-left: 50px;
+ }
+ 
+ .feed {
+     margin-left: 550px;
+     margin-top: 145px;
+ }
+ 
